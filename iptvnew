@@ -1,965 +1,791 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="https://en.wikipedia.org/wiki/Banglavision#/media/File:Banglavision.PNG" group-title="Bangla",Bangla Vision HD
-http://103.205.133.48/hls/ntv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla Vision HD" tvg-logo="https://en.wikipedia.org/wiki/Banglavision#/media/File:Banglavision.PNG" group-title="Bangla",Bangla Vision HD
-https://rb.gy/ga01lf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png" group-title="Bangla",Channel I HD
-https://rb.gy/o1wo15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATn" tvg-logo="" group-title="Bangla",ATn
-https://rhridoy136.shortcm.li/atnbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bangla TV" tvg-logo="" group-title="Bangla",Bangla TV
-https://rhridoy136.shortcm.li/banglatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV" tvg-logo="" group-title="Bangla",SA TV
-https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy TV" tvg-logo="" group-title="Bangla",Somoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Duronto Tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Duronto Tv
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magic bangla tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Magic bangla tv
-http://enaniptv.com/magicbanglatv/1080/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NRB" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",NRB
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Time tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Time tv
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Times 24" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Times 24
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Voice tv" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Voice tv
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bongo T [BD]" tvg-logo="https://dl.dropbox.com/s/m28fuy4f9lpdkmw/bg.png" group-title="Bangla",Bongo T [BD]
-http://103.109.213.18:5563/live/bongotv/chunklist_w937507918.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ITV IPTV [BD]" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg" group-title="Bangla",ITV IPTV [BD]
-http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NANDAN IPTV [BD]" tvg-logo="https://i.imgur.com/7HplreU.jpg" group-title="Bangla",NANDAN IPTV [BD]
-http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Bangla [IN]" tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="Bangla",Orange Bangla [IN]
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="71 Bangla" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/02/71banglatv.jpg" group-title="Bangla",71 Bangla
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/71bangla.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Alpona TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg" group-title="Bangla",Alpona TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla 21" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bangla21tv.jpg?x91288" group-title="Bangla",Bangla 21
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bangla21tv000889956-sg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bijoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Bangla",Bijoy TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Biswa Bangla 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/bb24tv.jpg" group-title="Bangla",Biswa Bangla 24
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="BTV Chattogram" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x91288" group-title="Bangla",BTV Chattogram
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Channel S (UK)" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x91288" group-title="Bangla",Channel S (UK)
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Deshe Bideshe" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg" group-title="Bangla",Deshe Bideshe
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Her Net" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Her Net
-https://server1.jadubd.com/hernettv/hernettv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jagoroni TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/02/jagoronitv.jpg" group-title="Bangla",Jagoroni TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jagoronitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Joy Jatra" tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-title="Bangla",Joy Jatra
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/joyjatratv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ktv Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Ktv Bangla
-https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nakshi IPTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/05/nakhsiptv-1.jpg?x91288" group-title="Bangla",Nakshi IPTV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nakshitv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NAN TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="Bangla",NAN TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Nandan" tvg-logo="https://yt3.ggpht.com/a/AATXAJyMGWMV2WF6Eh6zINMZMmykJoACr-n14neEDKu9=s900-c-k-c0x00ffffff-no-rj" group-title="Bangla",Nandan
-http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Natun Somoy" tvg-logo="https://tvtolive.com/wp-content/uploads/Natun-Somoy-TV-tvtolive.com_.jpg" group-title="Bangla",Natun Somoy
-http://server1.jadubd.com/natunTV/natunTV/chunklist_w1287147693.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="NRB TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x91288" group-title="Bangla",NRB TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="PAN Vision" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/panvisiontv.jpg?x91288" group-title="Bangla",PAN Vision
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/panvisiontvs.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Roal TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/01/roaltv.jpg?x91288" group-title="Bangla",Roal TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/royaltv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Varendra TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/varendro-tv.jpg?x91288" group-title="Bangla",Varendra TV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Ananda [IN]" tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="Bangla",ABP Ananda [IN]
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BOISHAKHI TV HD" tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="Bangla",BOISHAKHI TV HD
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Calcutta News [IN]" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangla",Calcutta News [IN]
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DURONTO TV" tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="Bangla",DURONTO TV
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Islamic" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288" group-title="Bangla",ATN Islamic
-https://rhridoy136.shortcm.li/atnislamic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN Music" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x91288" group-title="Bangla",ATN Music
-https://rhridoy136.shortcm.li/atnmusic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV Music" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x91288" group-title="Bangla",RTV Music
-https://rhridoy136.shortcm.li/rtvmusic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV H" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla News",GTV H
-http://163.172.29.246:8081/globalbd/gazitv/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="Bangla News",Jamuna Tv
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Masranga" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Maasranga_Television_Logo.jpg" group-title="Bangla News",Masranga
-http://ctgiptv.kitv.live:1935/live/test/test1/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My TV 2" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg" group-title="Bangla News",My TV 2
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://seeklogo.com/images/R/r-tv-logo-40D288E794-seeklogo.com.png" group-title="Bangla News",RTV
-https://bdsl.jagobd.com:441/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy tv" tvg-logo="https://www.logolynx.com/images/logolynx/4b/4b2f313b86df0505ff8277c57bdba411.jpeg" group-title="Bangla News",Somoy tv
-http://163.172.29.246:8081/globalbd/somoy/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ATN News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="Bangla News",ATN News
-https://rhridoy136.shortcm.li/atnnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="Bangla News",Boishakhi
-https://rhridoy136.shortcm.li/boishakhitv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288" group-title="Bangla News",BTV World
-https://rhridoy136.shortcm.li/btvworld.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CHANNEL 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x91288" group-title="Bangla News",CHANNEL 24
-https://rhridoy136.shortcm.li/channel24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel 9" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="Bangla News",Channel 9
-https://rhridoy136.shortcm.li/channel9.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Channel I" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288" group-title="Bangla News",Channel I
-https://rhridoy136.shortcm.li/channeli.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DBC News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288" group-title="Bangla News",DBC News
-https://rhridoy136.shortcm.li/dbcnews.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png" group-title="Bangla News",Desh TV
-https://rhridoy136.shortcm.li/deshtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekattor TV" tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="Bangla News",Ekattor TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EKUSHEY TV HD" tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="Bangla News",EKUSHEY TV HD
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288" group-title="Bangla News",Independent
-https://rhridoy136.shortcm.li/independenttv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288" group-title="Bangla News",Jamuna TV
-https://rhridoy136.shortcm.li/jamunatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="Bangla News",Jamuna TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JAMUNA TV HD" tvg-logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg" group-title="Bangla News",JAMUNA TV HD
-http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maasranga HD" tvg-logo="https://s4.gifyu.com/images/image54942a3647a21709.png" group-title="Bangla News",Maasranga HD
-http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Maasranga TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="Bangla News",Maasranga TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOHONA TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288" group-title="Bangla News",MOHONA TV
-https://rhridoy136.shortcm.li/mohonatv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288" group-title="Bangla News",MY TV
-https://rhridoy136.shortcm.li/mytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288" group-title="Bangla News",News 24
-https://rhridoy136.shortcm.li/news24.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288" group-title="Bangla News",RTV
-https://rhridoy136.shortcm.li/rtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangsad TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288" group-title="Bangla News",Sangsad TV
-https://rhridoy136.shortcm.li/sangsadtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SATV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="Bangla News",SATV
-https://rhridoy136.shortcm.li/satv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shomoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288" group-title="Bangla News",Shomoy TV
-https://rhridoy136.shortcm.li/shomoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ayna TV" tvg-logo="https://i.ytimg.com/vi/I7FEy13Menc/maxresdefault.jpg" group-title="Bangladesh",Ayna TV
-http://str24.l9574.com/510.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Bangla Channel" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Bangla Channel
-http://str24.l9574.com/515.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Probashi Bangla" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true" group-title="Bangladesh",Probashi Bangla
-http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TBN24 USA" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw" group-title="Bangladesh",TBN24 USA
-http://fingerme.dg21bd.com/TBN24/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="VOICE IPTV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/Voice-TV.jpg" group-title="Bangladesh",VOICE IPTV
-https://bdsl.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/voicetv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="Bangladesh",Bijoy TV
-https://rhridoy136.shortcm.li/bijoytv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="India Bangla",Sony Aath
-https://rb.gy/dpbtjf
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Zeebangla_new.png/revision/latest/scale-to-width-down/340?cb=20171015212131" group-title="India Bangla",ZEE Bangla
-https://rb.gy/aqiufc
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="India Bangla",Zee Bangla HD
-https://rb.gy/jfvgmx
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Bangla HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="India Bangla",Zee Bangla HD
-https://rb.gy/anrv6a
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee bangla cinema" tvg-logo="https://img.favpng.com/19/20/13/zee-bangla-cinema-logo-zee-cinema-bengali-language-png-favpng-EGC6aFQLMrSkPamz03cLVYU4L.jpg" group-title="India Bangla",Zee bangla cinema
-https://rb.gy/65cjew
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="India Bangla",Star Jalsha
-https://rb.gy/tjb8fh
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Star_Jalsha_2019_Chalo_Paltai.png/revision/latest/top-crop/width/300/height/300?cb=20190224050939" group-title="India Bangla",Star Jalsha
-https://rb.gy/7ahwc4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png/revision/latest?cb=20190810163545" group-title="India Bangla",Jalsha Movies
-hhttp://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Colors Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg" group-title="India Bangla",Colors Bangla
-https://rb.gy/9x01vp
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ruposhi Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/Rupasi_bangla.png" group-title="India Bangla",Ruposhi Bangla
-https://rb.gy/voxkid
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Enter 10 Bangla" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhDVkXbG-WQsn3UwfxuZkkHWHtBBvNk447VqCch=s900-c-k-c0x00ffffff-no-rj" group-title="India Bangla",Enter 10 Bangla
-https://rb.gy/jxmuuo
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sangeet bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="India Bangla",Sangeet bangla
-https://rb.gy/ilb0ve
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dhoom Music" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/dhoom_music.jpg" group-title="India Bangla",Dhoom Music
-https://rb.gy/hcw0ly
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/discoveryeng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/tlchdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://streamitv.multitvsolution.in/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Discovery",Indian
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-https://khulnalive.anytv.live:443/starsp1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-https://rhridoy136.shortcm.li/starsportsselect1hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-https://rhridoy136.shortcm.li/starsportsselect2hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein6.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein8.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://135.181.31.32/hls/bein9.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 FHD VIP IN" tvg-logo="undefined" group-title="Sports",Star Sports 1 FHD VIP IN
-http://tv.iptvpanel.tv:8080/0p0en4bopo/e350c40z6/5431
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TEN Sports FHD IN" tvg-logo="undefined" group-title="Sports",TEN Sports FHD IN
-http://tv.iptvpanel.tv:8080/0p0en4bopo/e350c40z6/5433
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 FHD IN" tvg-logo="undefined" group-title="Sports",Star Sports 2 FHD IN
-http://tv.iptvpanel.tv:8080/0p0en4bopo/e350c40z6/5430
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://tv.iptvpanel.tv:8080/0p0en4bopo/e350c40z6/5429
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://103.205.133.20/hls/ten1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://10.16.100.207:8082/sports/Ten-3_cm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://10.16.100.207:8082/sports/starsports2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://103.146.55.212:8088/ptvspors/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://10.16.100.201/hindi/cm_sonysix_hd.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/192
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://209.126.8.89:25461/dlnabein/dlnabein/219
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://43.251.86.6:8080/hls/channel_1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://45.127.244.7:8080/hls/channel2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://rhridoy136.shortcm.li/sonyten2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://1.1usd.tv:34000/ch149/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9NnAp9AyLnYKD9O1MVRk5Rbl
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-http://1.1usd.tv:34000/ch150/mono.m3u8?token=1usdtv_v1909.q0qhO4C8xdYsoIcypQvn4mBLEVFZNkeK4O_PEhQs9NmK222FrdPK0xy2zRl3u36j
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 3 HD IN" tvg-logo="undefined" group-title="Sports",Star Sports 3 HD IN
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2" tvg-logo="" group-title="(no group)",Star Sports 2
-http://103.205.133.48/hls/chss2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports" tvg-logo="" group-title="(no group)",Bein Sports
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bflix Movies" tvg-logo="" group-title="(no group)",Bflix Movies
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ABP Majha" tvg-logo="" group-title="(no group)",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gurbani Healing" tvg-logo="" group-title="(no group)",Gurbani Healing
-http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mazhavil Manorama HD" tvg-logo="" group-title="(no group)",Mazhavil Manorama HD
-http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Shubhsandesh" tvg-logo="" group-title="(no group)",Shubhsandesh
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60037
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/70825
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60034
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60036
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60038
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://y5w8j4a9.ssl.hwcdn.net/apacsea/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.205.133.48/hls/andtv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://208.115.215.42/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60045
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://10.16.100.201/hindi/colorsin.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61789
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.146.55.212:8088/sonymax/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/andpicshd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END&checkedby
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60050
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/action/tracks-v2a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://dx3.gcdn.co/hindi-SONYBBCEARTHHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8?token=soheliptv01826655778
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/magic/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/andprivehd/tracks-v4a1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/bigmagic/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zzestsd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zanmolcnm/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/classic/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/action/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zcinemalusd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/ztalkieshd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zeecafesd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/smileusa/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/apacsea/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/canadahd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/bigganga/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/etcpnjbiusa/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/marathiusa/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zeeteleguhd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/sarthaktv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/mundohd/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/russia/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/world/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zing/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/zinguk/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/punjabi/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/newsmpcg/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/kalak/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://z5amshls.akamaized.net/wion/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://khulnalive.anytv.live:443/hbo/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61798
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?start=LIVE&end=END&checkedby
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1157917870.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://bit.ly/2m4L4mi
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w927914309.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://fastway.ddns.net:6421/fastway/alive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://fastway.ddns.net:6421/fastway/live10/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://livetv.gabruu.com/live/mgabruutv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibcbakthi-origin.ibctamil.com/transcode/ibcbakthi.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibcsiluvai-live.ibctamil.com/transcode/ibcsiluvai.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://ibctamilcanada-live.ibctamil.com/transcode/ibccanada.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/janamtv-origin/liveabr/janamtv-origin/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/mediaone/Live/Channel(MediaOne)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://fastway.ddns.net:6421/fastway/live8/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn9.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://rtmp.smartstream.video/totaltv/totaltv/chunklist_w333449690.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8?no_cache=0.12008277603516793&checkedby
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://fastway.ddns.net:6421/fastway/alive/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian" tvg-logo="" group-title="Indian Hindi",Indian
-http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://khulnalive.anytv.live:443/nick/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://any.hitectv.live:4443/nick/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60035
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://botallen.live/t/45/master.m3u8?signature=4c204d25d40d2b025c8d6c4786e42c8fa5a88a3c&unique=ba77df386cd6d6a89c8bfe0c4011bb69
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://botallen.live/t/238/master.m3u8?signature=b6e24733012119bd50d9ce9fd7a5df233e375069&unique=ba77df386cd6d6a89c8bfe0c4011bb69
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://botallen.live/t/138/master.m3u8?signature=12785473048f7e4a47972a01c4039e52621062fb&unique=ba77df386cd6d6a89c8bfe0c4011bb69
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoon" tvg-logo="" group-title="Cartoon",Cartoon
-https://botallen.live/t/127/master.m3u8?signature=7b15529d1cc59e28ec913b9d8c53583bab432c2b&unique=ba77df386cd6d6a89c8bfe0c4011bb69
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://103.205.133.48/hls/9xm.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://10.16.100.207:8082/sports/mtuness.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_1400.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://z5amshls.akamaized.net/zing/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Indian music" tvg-logo="" group-title="music",Indian music
-https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://rt-arab.secure.footprint.net/1104_400Kb.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa3%3d96000-video%3d1604032.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master_2596.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1519986140.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://cdg3.edge.tmed.pw/arrafidaintv/abr_live/arrafidaintv/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://185.105.4.236:1935/live/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118:80/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://live.imamhossaintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://68.235.60.118:1935/logoschannel.com/logostv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118:80/hls/m3u8/MBC1-Ali-Mar-AA-Z.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118:80/hls/m3u8/MBC2-QQ-DD-G-C.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118:80/hls/m3u8/MBC4-EE-DD-V-Z.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118/hls/m3u8/MBC-ACTION-YY-TT.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118:80/hls/m3u8/MBCDRAMA-RR-AA-B.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118:80/hls/MBC-MAX-TT-DD-N.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118/hls/MBC-P-VARity-FF.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://orange.cdn.mangomolo.com/eg1/smil:eg1.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118/hls/Sky-MoviesComedy-N.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.118/hls/m3u8/Sky-MoviesComedy.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinDrama1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinGourmet.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinSeries1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinMovies1.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinMovies2.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinMovies3.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/BeinMovies4.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://95.170.215.120/hls/m3u8/jeem.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arabe" tvg-logo="" group-title="Arabe",Arabe
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RElegious" tvg-logo="" group-title="Islam",RElegious
-https://rhridoy136.shortcm.li/peacetvbangla.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RElegious" tvg-logo="" group-title="Islam",RElegious
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RElegious" tvg-logo="" group-title="Islam",RElegious
-http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://imgur.com/V7DWiW2",IPTV BY ASLIVE
+https://i.imgur.com/V7DWiW2.png
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eyAInC9.png" group-title="BANGLA", Gazi TV
+https://aslive.club/cn/sports/gtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="BANGLA",T Sports
+https://aslive.club/cn/sports/tsports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV
+https://aslive.club/cn/bangla/sangsad/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+https://aslive.club/cn/bangla/btv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="BANGLA",ATN BANGLA
+https://aslive.club/cn/bangla/atnbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="BANGLA",ATN NEWS
+https://aslive.club/cn/bangla/atnnews/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BANGLA",CHANNEL I HD
+https://aslive.club/cn/bangla/channeli/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLA",EKUSHEY TV
+https://aslive.club/cn/bangla/ekusheytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BANGLA",RTV HD
+https://aslive.club/cn/bangla/rtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png" group-title="BANGLA",BOISHAKHI TV
+https://aslive.club/cn/bangla/boishakhitv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="BANGLA",BANGLA VISION
+https://aslive.club/cn/bangla/banglavision/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/My_TV_Logo.png" group-title="BANGLA",MY TV HD
+https://aslive.club/cn/bangla/mytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mohona_Logo.JPG/230px-Mohona_Logo.JPG" group-title="BANGLA",MOHONA TV+
+https://aslive.club/cn/bangla/mohona/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="BANGLA",MAASRANGA TV HD
+https://aslive.club/cn/bangla/maasranga/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/520px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9 HD
+https://aslive.club/cn/bangla/channel9/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="BANGLA",SA TV HD
+https://aslive.club/cn/bangla/satv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="BANGLA",DEEPTO TV HD
+https://aslive.club/cn/bangla/deepto/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.daily-bangladesh.com/media/imgAll/2018January/SM/-180301114254." group-title="BANGLA",Nagorik TV
+https://aslive.club/cn/bangla/nagorik/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="BANGLA",BANGLA TV HD
+https://aslive.club/cn/bangla/banglatv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/220px-Independent_Television_Logo.svg.png" group-title="BANGLA",INDEPENDENT TV
+https://aslive.club/cn/bangla/independent/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Somoy_TV_logo.png" group-title="BANGLA",SOMOY TV
+https://aslive.club/cn/bangla/somoytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/120px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
+https://aslive.club/cn/bangla/channel24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="BANGLA",JAMUNA TV
+https://aslive.club/cn/bangla/jamuna/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="BANGLA",NEWS 24 HD
+https://aslive.club/cn/bangla/news24/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR TV
+http://103.205.133.19/hls/ekatoortv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DBC_News_logo.png/180px-DBC_News_logo.png" group-title="BANGLA",DBC NEWS HD
+https://aslive.club/cn/bangla/dbc/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD
+https://aslive.club/cn/bangla/bijoytv/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD
+https://aslive.club/cn/bangla/anondo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AntJjP7.jpg" group-title="BANGLA",MY CINEMA
+https://aslive.club/cn/bangla/mycinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg" group-title="BANGLA",Movie Bangla TV
+https://aslive.club/cn/bangla/moviebangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/09/joyjatra1.jpg" group-title="BANGLA",Joy Jatra TV
+https://aslive.club/cn/bangla/joyjatra/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
+https://aslive.club/cn/indianbangla/starjalsha/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 2
+https://aslive.club/cn/indianbangla/starjalsha/chunks2.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
+https://aslive.club/cn/indianbangla/zeebangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
+https://aslive.club/cn/indianbangla/zeebangla/chunks2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="INDIAN BANGLA",Zee Bangla Cinema
+https://aslive.club/cn/indianbangla/zeebanglacinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
+https://aslive.club/cn/indianbangla/colorsbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA",Sony Aath
+https://aslive.club/cn/indianbangla/sony8/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/EB.png" group-title="INDIAN BANGLA",Enter 10 Bangla
+https://aslive.club/cn/indianbangla/enter10bn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="INDIAN BANGLA",Jalsha Movies HD
+https://aslive.club/cn/indianbangla/jalshamovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PW9hRDa.png" group-title="INDIAN BANGLA",Sun Bangla
+https://aslive.club/cn/indianbangla/sunbangla/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="SPORTS",T Sports
+https://aslive.club/cn/sports/tsports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD
+https://aslive.club/cn/sports/sonysix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e0tD66l.png" group-title="SPORTS",Sony SIX HD(2)
+https://aslive.club/cn/sports/sonysix/chunks2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD
+https://aslive.club/cn/sports/ten1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 HD(2)
+https://aslive.club/cn/sports/ten1/chunks2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD
+https://aslive.club/cn/sports/ten2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD(2)
+https://aslive.club/cn/sports/ten2/chunks2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 HD(3)
+https://aslive.club/cn/sports/ten2/chunks3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD
+https://aslive.club/cn/sports/ten3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 HD(2)
+https://aslive.club/cn/sports/ten3/chunks2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c53SXnN.png" group-title="SPORTS",PTV Sports
+https://aslive.club/cn/sports/ptv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/04/19/starspoerts1.jpg?itok=2DsJ3WgX" group-title="SPORTS",Star Sports 1 HD
+https://aslive.club/cn/sports/star1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GpbGHPp/2021-05-12-11-51-26-removebg-preview.png" group-title="SPORTS",Star Sports 2
+https://aslive.club/cn/sports/star2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-1-logo-300x300.jpg" group-title="SPORTS",Star Sports Select 1 HD 
+https://aslive.club/cn/sports/starsl1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD
+https://aslive.club/cn/sports/starsl2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="SPORTS",Ten Cricket
+https://aslive.club/cn/sports/tencric/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XndtCW3.png" group-title="SPORTS",ESPN
+https://aslive.club/cn/sports/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q7TeCoM.png" group-title="SPORTS",Euro Sports
+https://aslive.club/cn/sports/euro/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BhlXnMe.jpg" group-title="SPORTS",Ten Sports
+https://aslive.club/cn/sports/tensports/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/1-HD.png" group-title="SPORTS",Bein Sports 1 HD
+https://aslive.club/cn/sports/ben1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/2-HD.png" group-title="SPORTS",Bein Sports 2 HD
+https://aslive.club/cn/sports/ben2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/3-HD.png" group-title="SPORTS",Bein Sports 3 HD
+https://aslive.club/cn/sports/ben3/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="MUSIC",Gaan Bangla
+https://aslive.club/cn/music/gaanbangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC",RTV Music
+https://aslive.club/cn/music/rtvmusic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="MUSIC",ATN Music
+https://aslive.club/cn/music/atnmusic/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla
+https://aslive.club/cn/music/sangeetbn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/05tj9z40/Bangla-Talkies-Logo-cover.jpg" group-title="MUSIC",Bangla Talkies
+https://aslive.club/cn/music/banglatalk/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7rnhie0.png" group-title="MUSIC",DHOOM MUSIC
+https://aslive.club/cn/music/dhoom/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="MUSIC",Zing
+https://aslive.club/cn/music/zing/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Px04s8Y/Screenshot-1-removebg-preview.png" group-title="MUSIC",B4U Music
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhVJfMKRvghWP1ibjmaTUyx3POPieBt057RJes6Mw=s900-c-k-c0x00ffffff-no-rj" group-title="MUSIC",MUSIC MASTI
+https://aslive.club/cn/music/musicmasti/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="MUSIC",Zoom
+https://aslive.club/cn/music/zoom/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nkdmwSV/images.jpg" group-title="MUSIC",9x Jalwa
+https://aslive.club/cn/music/9x/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925599202s.png" group-title="MUSIC",MUSIC INDIA
+https://aslive.club/cn/music/musicindia/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/9xm-black.png" group-title="MUSIC",9xM
+https://aslive.club/cn/music/9xm/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/8e/3b/da/8e3bda42a2633238db1c28e39ef01e7e.jpg" group-title="MUSIC",Hungama Dil se
+https://aslive.club/cn/music/dilse/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qQeesU6.png" group-title="HINDI",Sony Sab
+https://aslive.club/cn/hindi/sonysab/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="HINDI",Star Plus
+https://aslive.club/cn/hindi/starplus/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="HINDI",Sony Entertainment
+https://aslive.club/cn/hindi/sony/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HeRPCOn.png" group-title="HINDI",& TV 
+https://aslive.club/cn/hindi/andtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="HINDI",Colors 
+https://aslive.club/cn/hindi/colors/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HPSfFVb/download-removebg-preview-1.png" group-title="HINDI" ,Manoranjan Movies
+https://aslive.club/cn/hindi/monoronjon/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://www.boxcinemedia.com/assets/img/logo.png" group-title="HINDI",Box Cinema
+https://aslive.club/cn/hindi/boxcinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="HINDI",SONY Wah
+https://aslive.club/cn/hindi/sonywah/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tLzmP3n/Screenshot-1.png" group-title="HINDI",BFlix Movies
+https://aslive.club/cn/hindi/bflix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SJmLFwG/Star-gold-800x445-removebg-preview.png" group-title="HINDI",Star Gold
+https://aslive.club/cn/hindi/stargold/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="HINDI",Star Gold 2
+https://aslive.club/cn/hindi/stargold2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://img.airtel.tv/unsafe/fit-in/260x0/filters:format(png)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000041660000/PORTRAIT/ntnToCGg.png" group-title="HINDI",Colors Cineplex
+https://aslive.club/cn/hindi/colorcineplex/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dtCdQF6/Zee-Action-new-removebg-preview.png" group-title="HINDI",Rishtey Cineplex
+https://aslive.club/cn/hindi/risteycineplex/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="HINDI",Zee Bolywood
+https://aslive.club/cn/hindi/zeebolywood/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="HINDI",Zee Cinema
+https://aslive.club/cn/hindi/zeecinema/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="HINDI",UTV Action
+https://aslive.club/cn/hindi/utvaction/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="HINDI",& Pictures
+https://aslive.club/cn/hindi/andpicture/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="HINDI",Sony Max
+https://aslive.club/cn/hindi/sonymax/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="DOCUMENTARY",Travel XP 
+https://aslive.club/cn/documentary/travelxp/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="DOCUMENTARY",National Geographic
+https://aslive.club/cn/documentary/nationalgeo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Nat_Geo_Wild_HD_logo.png" group-title="DOCUMENTARY",Nat Geo Wild
+https://aslive.club/cn/documentary/natgeowild/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="DOCUMENTARY",Discovery
+https://aslive.club/cn/documentary/discovery/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="DOCUMENTARY",Animal Planet
+https://aslive.club/cn/documentary/animalplanet/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d0GCm0e.png" group-title="DOCUMENTARY",SONY BBC Earth
+https://aslive.club/cn/documentary/bbcearth/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LIZyi7p.png" group-title="DOCUMENTARY",BBC Lifestyle
+https://aslive.club/cn/documentary/bbclife/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="DOCUMENTARY",Discovery Turbo
+https://aslive.club/cn/documentary/discoveryturbo/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="DOCUMENTARY",TLC
+https://aslive.club/cn/documentary/tlc/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NQAWK6A.png" group-title="ENGLISH",& Flix
+https://aslive.club/cn/english/andflix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="ENGLISH",& Prive
+https://aslive.club/cn/english/andprive/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/69pCK1u.png" group-title="ENGLISH",AXN
+https://aslive.club/cn/english/axn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3i2U8HH.png" group-title="ENGLISH",Sony Pix
+https://aslive.club/cn/english/sonypix/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bBfuIVs.png" group-title="ENGLISH",Zee Cafe
+https://aslive.club/cn/english/zeecafe/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="ENGLISH",Star Movies
+https://aslive.club/cn/english/starmovies/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J4JNrkH.png" group-title="RELIGIOUS",Peace Tv - Bangla
+https://aslive.club/cn/religious/peacetv/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pJhdZme.png" group-title="RELIGIOUS",Al Dawah
+https://aslive.club/cn/religious/aldawah/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg" group-title="RELIGIOUS",ATN Islamic TV
+https://aslive.club/cn/religious/atnislamic/chunks.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PK9Gm5g.png" group-title="KIDS", Duronto TV
+https://aslive.club/cn/kids/duronto/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="KIDS",Sony Yay
+https://aslive.club/cn/kids/sonyvay/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="KIDS",Nick
+https://aslive.club/cn/kids/nick/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",Discovery Kids
+https://aslive.club/cn/kids/discokids/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="KIDS",Pogo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="KIDS",Disney Junior
+https://aslive.club/cn/kids/disney/chunks.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="HINDI MOVIES",Meri Pyari Bindu (2017)
+http://cdn.bdflix.ml/0:/Movies/BOLLYWOOD/M/Meri%20Pyaari%20Bindu%20(2017)%20-%201080p.h264.AC3.6ch.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Radhe: Your Most Wanted Bhai (2021)
+http://mymoviebazar.net/Data/movies/bollywood/2021/Radhe%20(2021)/Radhe%20(2021)%20Hindi%201080p%20WEB-DL%20-MSub.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Mumbai Saga (2021)
+http://mymoviebazar.net/Data/movies/bollywood/2021/Mumbai%20Saga%20(2021)/Mumbai%20Saga%20(2021)%20Hindi%20HD%20Rip%201080p%20AVC%20(DD+5.1%20-%20640Kbps)%202.6GB%20ESub[MB].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Raone
+https://cdn.ihub.live/download/bollywood/2011/Ra.One%20%282011%29/Ra.One%20%282011%29%20Bluray-720p.mp4/chunk.m3u8
+#EXTINF:-1 group-title="HINDI MOVIES",Dhoom (2004)
+http://content.discoveryftp.net/Movies/Hindi/2004/Dhoom/Dhoom%202004%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20HDSector.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dhoom 2 (2006)
+http://content.discoveryftp.net/Movies/Hindi/2006/Dhoom%202/Dhoom%202%20(2006)%20Hindi%201080p%20Blu-Ray%20x264%20DD%205.1%20MSubs-HDSector.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dhoom 3 (2013)
+http://content.discoveryftp.net/Movies/Hindi/2013/Dhoom%203/Dhoom%203%20(2013)%20Hindi%201080p%20BluRay%20AC3%20x264%20-%20BUZZccd.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Karam (2005)
+http://content.discoveryftp.net/Movies/Hindi/2005/Karam/Karam%20(2005)2.avi
+#EXTINF:-1 group-title="HINDI MOVIES",Koi... Mil Gaya (2003)
+http://content.discoveryftp.net/Movies/Hindi/2003/Koi...%20Mil%20Gaya/Koi%20Mil%20Gaya%202003%20Hindi%20720p%20DvDrip%20x264%20DTS...Hon3y.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Krrish (2006)
+http://content.discoveryftp.net/Movies/Hindi/2006/Krrish/Krrish%202006%20BluRay%201080p%20Hindi%20DD%205.1%20x264%20MSubs.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Krrish 3 (2013)
+http://content.discoveryftp.net/Movies/Hindi/2013/Krrish%203/Krrish.3.2013.1080p.BluRay.6CH.ShAaNiG.com.man.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Housefull
+http://content.discoveryftp.net/Movies/Hindi/2010/Housefull/Housefull%20(2010)%20Hindi%201080p%20BluRay%20x264%20DD+5.1(224Kbps)%20ESubs%20-%202.3GB%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Housefull 2
+http://content.discoveryftp.net/Movies/Hindi/2012/Housefull%202/HouseFull-2%202012%20Hindi%20BRRip%20720p%20x264%20AAC%205.1...Hon3y.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Housefull 3
+http://content.discoveryftp.net/Movies/Hindi/2016/Housefull%203/Housefull%203%202016%20Hindi%20720p%20BluRay%20x264%20AAC%205.1%20-%20Hon3y%20[Exclusive].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Housefull 4
+http://content.discoveryftp.net/Movies/Hindi/2019/Housefull%204/HOUSEFULL%204%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%202.4GB%20-%20ESub.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Laxmi movie
+http://content.discoveryftp.net/Movies/Hindi/2020/Laxmii/Laxmii%20(2020)%201080p%20HS%20WEB-DL%20H264%20DDP.5.1.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Issaq (2013)
+http://content.discoveryftp.net/Movies/Hindi/2013/Issaq/Issaq%20(2013)%20DvDRip%20576P%20x264%20ESub%20[DDR].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dirty Politics (2015)
+http://content.discoveryftp.net/Movies/Hindi/2015/Dirty%20Politics/Dirty%20Politics%20(2015)%20720p.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Aashiq Banaya Aapne (2005)
+http://content.discoveryftp.net/Movies/Hindi/2005/Aashiq%20Banaya%20Aapne/Aashiq%20Banaya%20Aapne%202005%20Hindi%20720p%20HDRip%20x264%20AC3%20-%20Hon3y.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Khaali Peeli (2020)
+http://content.discoveryftp.net/Movies/Hindi/2020/Khaali%20Peeli/Khaali%20Peeli%202020%20Multi%201080p%20ZEE5%20WEB-DL%20H264%20AAC%20ESUB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",X Ray The Inner Image (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/X%20Ray%20The%20Inner%20Image/X%20Ray%20The%20Inner%20Image%20(2019)%20Hindi%20720p%20WEB%20DL%20HINDI%20-%20AVC%20-%20AAC.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",The Lovely Mrs Mookherjee (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/The%20Lovely%20Mrs%20Mookherjee/The%20Lovely%20%20Mrs.Mookherjee%20(2019)1080p%20Hindi%20Zee%205%20Oroginal%20WEB%20DL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Superstar (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Superstar/Superstar%20(2019)%201080p%20HDTv%20-%20x264%20-%20AAC.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Chippa (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Chippa/Chippa.2018.1080p.NF.WEB-DL.DDP5.1.x264-Telly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dolly Kitty Aur Woh Chamakte Sitare (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Dolly%20Kitty%20Aur%20Woh%20Chamakte%20Sitare/Dolly.Kitty.Aur.Woh.Chamakte.Sitare.2020.1080p.NF.WEB-DL.DDP5.1.x264-Telly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Scotland (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Scotland/Scotland%20(2019)%20Hindi%201080p%20WEB%20DL%20-%20X264%20-%20AAC%20-%20DUSIcTv.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Penalty (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Penalty/Penalty.2019.1080p.NF.WEB-DL.DDP5.1.x264-MLSBD.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Yeh Saali Aashiqui (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Yeh%20Saali%20Aashiqui/Yeh%20Saali%20Aashiqui%202019%20WebRip%20Hindi%20720p%20x264%20AAC%20ESub%20-%20mkvCinemas%20[Telly].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Moksh To Maya (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Moksh%20To%20Maya/Moksh%20to%20Maya.2019.Hindi.1080p.SM.WEB.DL.AAC.MLSBD.CO.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",The Body (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/The%20Body/The%20Body%20(2019)%20Hindi%20720p%20WEB-DL%20x264%201.1GB%20-%20MkvMad.com.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Satellite Shankar (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Satellite%20Shankar/SATELLITE%20SHANKAR%20(2019)%20Hindi%C2%A0TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%202GB%20-%20ESub.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Motichoor Chaknachoor (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Motichoor%20Chaknachoor/Motichoor%20Chaknachoor%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD+5.1%20-%20640Kbps)%20-%202.6GB%20-%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",The Sky Is Pink (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/The%20Sky%20Is%20Pink/The%20Sky%20Is%20Pink%20(2019)%201080p%20WEBRip.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Line Of Descent (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Line%20Of%20Descent/Line.Of.Descent.2019.1080p.WEBRip.x264-[YTS.LT].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Good Newwz (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Good%20Newwz/GOOD%20NEWWZ%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD+5.1%20-%20640Kbps)%20-%203.5GB%C2%A0-%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dabangg 1080p (2010)
+http://content.discoveryftp.net/Movies/Hindi/2010/Dabangg%20%201080p/Dabangg%20(2010)%20Hindi%20BluRay%201080p%20HEVC%20x265%20DTS...Team%20Telly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dabangg 2 (2012)
+http://content.discoveryftp.net/Movies/Hindi/2012/Dabangg%202/Dabangg%202%202012%20Hindi%20720p%20BRRip%20x264%20AC3%205.1%20CharmeLeon%20SilverRG.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dabangg 3 (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Dabangg%203/Dabangg%203%20(2020)%20Hindi%20WEB-DL%201080p%20DD5.1%20Esub.mkv.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Panipat (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Panipat/Panipat%20-%20The%20Great%20Betrayal%202019%201080P%20NF%20WEBRiP.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Guru (2007)
+http://content.discoveryftp.net/Movies/Hindi/2007/Guru/Guru%202007%20Hindi%20720p%20Blu-Ray%20x264%20AAC%205.1%20ESub-HDSector.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Pati Patni Aur Woh (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Pati%20Patni%20Aur%20Woh/Pati%20Patni%20Aur%20Woh%202019%20Hindi%20720p%20AMZN%C2%A0WEB-DL%20DD-5.1%20Esubs.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dhamaal (2007)
+http://content.discoveryftp.net/Movies/Hindi/2007/Dhamaal/Dhamaal%202007%20Hindi%201080p%20NF%20WEBRip%20x264%20DD%205.1%20ESubs%20-%20LOKiHD%20-%20Telly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Double Dhamaal (2011)
+http://10.16.100.202/ftps10/iccftps10sasd5/Movies/Hindi/Double%20Dhamaal%20(2011)%201080p%20BluRay.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Total Dhamaal(2019)
+http://10.16.100.248/ftps6d2/Movies/Hindi/Total%20Dhamaal%20(2019)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Judgementall Hai Kya (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Judgementall%20Hai%20Kya/Judgementall%20Hai%20Kya%20(2019)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Pagalpanti (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Pagalpanti/Pagalpanti%202019%20Hindi%20www.downloadhub.rocks%201080p%20HDRip%20ESubs.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Marjaavaan (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Marjaavaan/MAR%20JAAVAAN%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD+5.1%20-%20640Kbps)%20-%204.2GB%20-%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Bypass Road (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Bypass%20Road/Bypass%20Road%20(2019)%20Hindi%20Original%201080p%20NF%20WEBRip%20AAC%20ESub%20x264.MLSBD.CO.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Suryavanshi (1900)
+http://content.discoveryftp.net/Movies/Hindi/1900/Suryavanshi/Suryavanshi.1992.avi
+#EXTINF:-1 group-title="HINDI MOVIES",Section 375 (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Section%20375/Section%20375%20(2019)%20[Worldfree4u.Tube]%20[Hindi]%20720p%20HDRip%20x264%20AAC%20ESub%205.1.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Drive (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Drive/Drive%20(2019)%20Proper%20HDRip%20-%201080p%20-%20Original%20DD5.1%20-%20[Telugu%20+%20Tamil%20+%20Hindi%20+%20Eng]%20-%202.3GB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Laal Kaptaan (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Laal%20Kaptaan/Laal%20Kaptaan%20(2019)%20Hindi%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20(DD+5.1%20-%20640Kbps)%20-%203.6GB%20-%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Gunwali Dulhaniya (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Gunwali%20Dulhaniya/Gunwali%20Dulhaniya%20(2019)%20Hindi%20Proper%20HDRip%20-%20720p%20-%20x264%20-%20AAC%20-%20850MB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Ghost (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Ghost/Ghost%20(2019)%20Hindi%20Proper%20HDRip%20-%20720p%20-%20x264%20-%20AAC%20-%20950MB%20-%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Made in China (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Made%20in%20China/Made%20in%20China%20(2019)%20Hindi%20720p%20HDTV%20x264%201GB%20[MB].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dream Girl (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Dream%20Girl/Dream%20Girl%20(2019)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",The Zoya Factor (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/The%20Zoya%20Factor/The%20Zoya%20Factor%20(2019)%20Hindi%20PreDVD%20-%20720p%20-%20x264%20-%20AAC%20-%201.2GB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Pal Pal Dil Ke Paas (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Pal%20Pal%20Dil%20Ke%20Paas/Pal%20Pal%20Dil%20Ke%20Paas%20(2019)%20Hindi%20WEB-DL%20-%201080p%20-%20AVC%20-%20AAC%20-%202.2GB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Sharmaji Ki Lag Gai (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Sharmaji%20Ki%20Lag%20Gai/Sharmaji%20Ki%20Lag%20Gai%20(2019)%20Hindi%20HDRip%20-%20720p%20-%20x264%20-%20AAC%20-%201.3GB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Chhichhore (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Chhichhore/Chhichhore%20(2019)%20[Worldfree4u.Tube]%20[Hindi]%20720p%20HDRip%20x264%20AAC%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",War (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/War/War.2019.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Barot House (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Barot%20House/Barot%20House%20(2019)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Khandaani Shafakhana (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Khandaani%20Shafakhana/Khandani%20Shafakhana%20(2019)%C3%82%C2%A0Hindi%C3%82%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20(DD+5.1%20-%20640Kbps)%20-%203.6GB%C3%82%C2%A0-%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Game Over (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Game%20Over/Game%20Over%20(2019)%201080p%20NF-WEBRip%20x265%20HEVC%20DD5.1%20ESub-REO.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Junglee (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Junglee/Junglee%20(2019)%201080p%20BluRay.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Fraud Saiyyan (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Fraud%20Saiyyan/Fraud%20Saiyyan%20(2019)%20Hindi%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Pranaam (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Pranaam/Pranaam%20(2019)%20Hindi%20720p%20PreDVDRip%20x264%20AAC%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Mission Mangal (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Mission%20Mangal/Mission%20Mangal%20(2019)%20Hindi%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%20-%201.2GB%20-%20ESub.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Khamoshi (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Khamoshi/Khamoshi%20(2019)%20Hindi%20720p%20WEBRip%20x264%20AAC%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Jugni Yaaran Di (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Jugni%20Yaaran%20Di/Jugni%20Yaaran%20Di%20(2019)%20Punjabi%20720p%20HDRip%20x264%20AAC%20ESub%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Fastey Fasaatey (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Fastey%20Fasaatey/Fastey%20Fasaatey%20(2019)%20Hindi%20720p%20WEBRip%20x264%20AAC%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",DSP Dev (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/DSP%20Dev/DSP%20Dev%20(2019)%20Punjabi%20720p%20HDRip%20x264%20AAC%20ESub%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Batla House (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Batla%20House/Batla%20House%20(2019)%201080p%20WebRip%20HEVC%20x265%20DD5.1%20Esub%20-%20N3MO.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Why Cheat India (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Why%20Cheat%20India/Why%20Cheat%20India%20(2019)%20Hindi%201080p%20HDTVRip%20x264%20AAC%201.9GB.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Kesari (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Kesari/Kesari%20(2019)%20Hindi%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Natty.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Kabir Singh (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Kabir%20Singh/Kabir.Singh.2019.1080p.NF.WEB-DL.DDP5.1.H.264-BonsaiHD.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Malaal (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Malaal/Malaal%202019%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%206CH%20ESubs%20-%20LOKiHD%20-%20Telly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Kalank (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Kalank/Kalank%20(2019)%20Hindi%20720p%20WEB-DL%20x264.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",De De Pyaar De (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/De%20De%20Pyaar%20De/De%20De%20Pyaar%20De%20(2019)%20Hindi%201080p%20WEB-HDRip%20x264.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Bharat (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Bharat/Bharat%20(2019)%20Hindi%201080p%20WEB-DL%20x264.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Article 15 (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Article%2015/Article%2015%20(2019)%20Hindi%20720p%20HDRip%20x264%20AAC%205.1%20ESubs%20-JM%20Team.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Sharma ji ki lag gayi (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Sharma%20ji%20ki%20lag%20gayi/Sharma%20Ji%20Ki%20Lag%20Gayi%20(2019)%20Hindi%20720p%20HDTVRip%20x264%20AC3%20950MB.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Rubaru Roshni (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Rubaru%20Roshni/Rubaru%20Roshni%20(2019)%20Hindi%201080p%20Untouched%20WEB-DL%20x264%20AAC%201.4GB%20[DDN].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Jhootha Kahin Ka (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Jhootha%20Kahin%20Ka/Jhootha%20Kahin%20Ka%20(2019)%20Hindi%C3%82%C2%A0Proper%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20AAC%C3%82%C2%A0-%202GB.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Indias Most Wanted (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Indias%20Most%20Wanted/India's%20Most%20Wanted%20(2019)%201080p%20Hindi%20Proper%20WEB-DL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Hum chaar (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Hum%20chaar/Hum%20chaar%20(2019)%20Hindi%20%201080p%20WEB-DL.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Family of Thakurganj (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Family%20of%20Thakurganj/Family%20Of%20Thakurganj%20(2019)%20720p%20Hindi%20DVDScr%20x264.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Arjun Patiala (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Arjun%20Patiala/Arjun%20Patiala%202019%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD%205.1%20ESubs%20-%20LOKiHD%20-%20Telly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Super 30 (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Super%2030/SUPER%2030%20(2019)%20Hindi%20Proper%20TRUE%20WEB-DL%20-%201080p%20%20x265%2010bit%20Bumblebee.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Luka Chuppi (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Luka%20Chuppi/Luka%20Chuppi%20(2019)%20Hindi%20720p%20WEBRip%20x264%20DD2.0%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Amavas (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Amavas/Amavas%20(2019)%20Hindi%20720p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Chopsticks (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Chopsticks/Chopsticks%20(2019)%20Hindi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Blackia (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Blackia/Blackia%20(2019)%20Punjabi%20720p%20HDRip%20x264%20AAC%205.1%20ESub%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Setters (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Setters/Setters%20(2019)%201080p%20UntoucheD%20WEB%20HD%20-%20AVC%20-%20AAC%20-%20DUSIcTv%20Exclusive.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Dulla Vaily (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Dulla%20Vaily/Dulla%20Vaily%20(2019)%20Punjabi%20720p%20HDRip%20x264%20AAC%20ESub%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Blank (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Blank/BLN%20(2019)%20720p%20x264%20AAC%20ESubs.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Badnaam Gali (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Badnaam%20Gali/Badnaam%20Gali%20(2019)%20Hindi%20720p%20HDRip%20x264%20AAC%20ESub%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Student of the Year (2012)
+http://content.discoveryftp.net/Movies/Hindi/2012/Student%20of%20the%20Year/Student%20of%20the%20Year%20(2012)%20Hindi%20Movie%20%20720p%20BluRay.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Student of the Year 2 (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Student%20of%20the%20Year%202/Student%20of%20the%20Year%202%202019%201080p%20AMZN%20WEBRip%20DD5.1%20x265%20HEVC%20REO.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",22 Yards (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/22%20Yards/22%20Yards%20(2019)%20Hindi%20720p%20HDTVRip%20x264%20AAC%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Music Teacher (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Music%20Teacher/Music%20Teacher%20(2019)%20Hindi%20720p%20HDRip%20x264%20AAC%205.1%20MSubs%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Badla (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Badla/Badla%20(2019)%20Hindi%201080p%20NF%20WEB-DL%20x264%20DD5.1%20ESub%20-%20LOKiHD.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Storm Boy (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Storm%20Boy/Storm.Boy.2019.720p.WEB-DL.x264-MkvCage.ws.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Romeo Akbar Walte (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Romeo%20Akbar%20Walte/Romeo%20Akbar%20Walter%20(2019)%20Hindi%20720p%20CB%20HDRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Notebook (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Notebook/Notebook%202019%20Hindi%201080P%20WEBRiP%2010%20bit%20x265%20DD%205.1%20HEVC%20AC3%20[shadow].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",706 (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/706/706%20(2019)%20Hindi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Rangeela Raja (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Rangeela%20Raja/Rangeela%20Raja%20(2019)%20720p%20DVDRip.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Cabaret (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Cabaret/Cabaret%20(2019)%20Hindi%20720p%20WEBRip%20x264%20AAC%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Darkness Visible (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Darkness%20Visible/Darkness%20Visible%20(2019)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Khamiyaza (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Khamiyaza/Khamiyaza%202019%20[Worldfree4u.Tube]%20[Hindi]%20720p%20HDRip%20x264%20AAC%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Manikarnika The Queen of Jhansi (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Manikarnika%20The%20Queen%20of%20Jhansi/Manikarnika-The%20Queen%20of%20Jhansi%20(2019)%20Hindi%20720p%20WEB-DL%20x264%20DD5.1%20ESub%20-SunGeorge.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",72 Hours Martyr Who Never Died (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/72%20Hours%20Martyr%20Who%20Never%20Died/72%20Hours-Martyr%20Who%20Never%20Died%20(2019)%20Hindi%20720p%20HDTVRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Firebrand (2019)
+http://content.discoveryftp.net/Movies/Hindi/2019/Firebrand/Firebrand%20(2019)%20Hindi%20720p%20HDRip%20x264%20AAC%20MSubs%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dobaara (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Dobaara/Dobaara%202018%20Hindi%20720p%20WEB-DL-x264-AC3-Zi$t.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Badalte Chehre (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Badalte%20Chehre/Badalte%20Chehre%20(2018)%20Zee5%20Originals%20%20-%20720p%20-%20HDRip%20-%20x264%20-%20[Hindi%20+%20Tamil%20+%20Telugu%20-%20Malayalam]%20-%201.4GB%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Genius (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Genius/Genius.2018.Hindi.1080p.WEB-DL.x264.[2GB].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Namaste England (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Namaste%20England/Namaste%20England%20(2018)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Bedhadak (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Bedhadak/Bedhadak.2018.Hindi.1080p.ErosNow.WEB-DL.x264.AAC.2.0-Telly.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Tiger (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Tiger/Tigers%20(2018)%20Hindi%201080p%20WEB-DL%20x264%20AAC%20[Team%20DRSD].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Mere Pyare Prime Minister (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Mere%20Pyare%20Prime%20Minister/Mere%20Pyare%20Prime%20Minister%20(2018)%20Hindi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Zero 720p
+http://content.discoveryftp.net/Movies/Hindi/2018/Zero/ZERO%202018%20Hindi%20720p%20BluRay%20x264%20DDP%205.1%20-%20xRG.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Hamid (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Hamid/Hamid%20(2018)%20720p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Veerey Ki Wedding (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Veerey%20Ki%20Wedding/Veerey%20Ki%20Wedding%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%20ESub%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Simmba (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Simmba/Simmba%20(2018)%20Hindi%20Proper%201080p%20WEB-DL%20x264%20AVC%20AAC%20ESub%20[MovCr].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Mitron (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Mitron/Mitron.2018.Hindi.1080p.WEB-DL.x264.[1.7GB].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Lupt (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Lupt/Lupt%20(2018)%20Hindi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Mard Ko Dard Nahin Hota (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Mard%20Ko%20Dard%20Nahin%20Hota/Mard%20Ko%20Dard%20Nahin%20Hota%20(2018)%20Hindi%20720p%20HC%20HDRip%20x264%20AAC%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Hotel Milan (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Hotel%20Milan/Hotel%20Milan%20(2018)%20Hindi%20720p%20HDRip%20x264%20DD5.1%20ESub%20[MOVCR].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",2.0 (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/2.0/2.0%20(Robot%202)%20(2018)%20Hindi%20Dubbed%201080p%20WEBRip%20x264%20AC3%205.1%20ESub%20~%20Ranvijay.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Falooda (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Falooda/Falooda%20(2018)%20%201080p%20WEBHD.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Jhakaas (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Jhakaas/Jhakaas%20(2018)%20720p%20HDRip.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Kashmir Daily (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Kashmir%20Daily/Kashmir%20Daily%20(2018)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Kuch Pal Pyar Ke (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Kuch%20Pal%20Pyar%20Ke/Kuch%20Pal%20Pyar%20Ke%20(2018)%20Hindi%20720p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Gen x (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Gen%20x/Gen-x%20(2018)%20720p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Daas Dev (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Daas%20Dev/Daas%20Dev%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Pihu (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Pihu/Pihu%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%20ESub%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Carry on Jatta 2 (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Carry%20on%20Jatta%202/Carry%20on%20Jatta%202%20(2018)%20Punjabi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Soni (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Soni/Soni%20(2018)%201080p%20%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Jaane Kyun De Yaaron (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Jaane%20Kyun%20De%20Yaaron/Jaane%20Kyun%20De%20Yaaron%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%205.1%20ESub%20[MovCr].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Thugs of Hindostan (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Thugs%20of%20Hindostan/Thugs%20Of%20Hindostan%202018%20Hindi%201080P%20Blu%20Ray%2010bit%20x265%20DD%205.1%20HEVC%20[shadow].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Teri Bhabhi Hai Pagle (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Teri%20Bhabhi%20Hai%20Pagle/Teri%20Bhabhi%20Hai%20Pagle%20(2018)%20Hindi%20720p%20Proper%20HDRip%20x264%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Ishqeria (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Ishqeria/Ishqeria%20(2018)%20Hindi%20720p%20Proper%20HDRip%20x264%20DD5.1%20ESub%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Pareshaan Parinda (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Pareshaan%20Parinda/Pareshaan%20Parinda%20(2018)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dassehra (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Dassehra/Dassehra%20(2018)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Ascharya Fuck It (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Ascharya%20Fuck%20It/Ascharya%20Fuck%20It%20(2018)%20Hindi%20720p%20WEB-DL%20x264%20ESub%20[MW].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Golak Bugni Bank Te Batua (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Golak%20Bugni%20Bank%20Te%20Batua/Golak%20Bugni%20Bank%20Te%20Batua%20(2018)%20720p%20HDRip.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Manmarziyaan (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Manmarziyaan/Husband%20Material%20(Manmarziyaan)%20(2018)%20Hindi%201080p.WEB-DL.x264.[2.2GB].[MP4].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Kuchh Bheege Alfaaz (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Kuchh%20Bheege%20Alfaaz/Kuchh%20Bheege%20Alfaaz%20(2018)%201080p%20NF%20WEBDL.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Happy Phirr Bhag Jayegi (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Happy%20Phirr%20Bhag%20Jayegi/Happy%20Phirr%20Bhag%20Jayegi%20(2018)%20Hindi%20720p%20DVDRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Bhaiaji Superhit (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Bhaiaji%20Superhit/Bhaiaji%20Superhit%20(2018)%20Hindi%20HQ%20PRE%20Rip%20x264%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Batti Gul Meter Chalu (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Batti%20Gul%20Meter%20Chalu/Batti%20Gul%20Meter%20Chalu%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20Dowwnloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",5 Weddings (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/5%20Weddings/5%20Weddings%20(2018)%20Hindi%20720p%20Pre-DVDRip.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Fanney Khan (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Fanney%20Khan/Fanney%20Khan%20(2018)%20Hindi%20Proper%20True%20HQ%20WEB-DL%20-%20720p.mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Stree (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Stree/Stree%20(2018)%20Hindi%201080p%20HDRip%20x264%20AAC%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Tumbbad (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Tumbbad/Tumbbad.2018.Hindi.1080p.WEB-DL.x264.[1.5GB].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Ashke (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Ashke/Ashke%20(2018)%20Punjabi%20720p%20WEB-HD%20x264%20AC3-SunGeorge.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Halkaa (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Halkaa/Halkaa%20(2018)%20Hindi%20720p%20Proper%20WEBRip%20x264%20AC3%205.1%20ESub%20-%20MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Redrum (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Redrum/Redrum%20(2018)%20Hindi%20720p%20HDTVRip%20x264-SkyMoviesHD.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Gold (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Gold/Gold.2018.Hindi.1080p.HDTVRip.AVC.DD2.0-TeamTelly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Baazaar (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Baazaar/Baazaar.(2018).Desi.Pre.Rip.x264.AAC.2.0-DTOne.man.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Race 3 (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Race%203/Race%203%202018%20Hindi%201080p%20WEB-DL%20x264%20[MW].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Saheb Biwi Aur Gangster 3 (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Saheb%20Biwi%20Aur%20Gangster%203/Saheb%20Biwi%20Aur%20Gangster%203%20(2018)%20Hindi%201080p%20HDRip%20AVC%20AAC%20DD5.1-TeamTelly.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Badhaai Ho (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Badhaai%20Ho/Badhaai.Ho.2018.1080p.BluRay.x264-[YTS.AM].mp4
+#EXTINF:-1 group-title="HINDI MOVIES",Hate Story 4 (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Hate%20Story%20IV/Hate%20Story%204%20(2018)%20Hindi%20720p%20WEB-HD%20x264%20AAC%205.1%20ESub-SunGeorge.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Satyameva Jayate (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Satyameva%20Jayate/Satyameva%20Jayate%20(2018)%20Hindi%201080p%20WEBRip%20x264%20AC3%20DD5.1%20ESub%20-%20Ranvijay.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Sanju (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Sanju/Sanju%202018%20Hindi%201080P%20Blu%20Ray%2010%20bit%20x265%20DD%205.1%20HEVC%20[shadow].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Nanu Ki Jaanu (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Nanu%20Ki%20Jaanu/Nanu%20Ki%20Jaanu%20(2018)%20[Hindi%20-%20720p%20-%20HD%20AVC%20](%C3%82%C2%AF%C3%82%C2%B4%C3%A2%E2%82%AC%C2%A2._.%C3%A2%E2%82%AC%C2%A2%20Tm%203StR%20%C3%A2%E2%82%AC%C2%A2._.%C3%A2%E2%82%AC%C2%A2%C3%82%C2%B4%C3%82%C2%AF).mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Dolls House (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Dolls%20House/Doll's%20House%202018%20Hindi%20720p%20WEBRip%20x264%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Soorma (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Soorma/Soorma.2018.WebD.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Page 16 (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Page%2016/Page%2016%20(2018)%20Hindi%20720p%20DTHRip%20x264%20AAC%20-%20Downloadhub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Helicopter Eela (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Helicopter%20Eela/Helicopter%20Eela%20(2018)%20Hindi%20720p%20Untouched%20HQ%20PRE%20x264%20AAC%20[MovCr].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Sajjan Singh Rangroot (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Sajjan%20Singh%20Rangroot/Sajjan%20Singh%20Rangroot%20(2018)%20Punjabi%20720p%20DvDRip%20x264%20DD2.1%20-%20MAZE.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Loveyatri (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Loveyatri/Love%20Yatri%202018%20Hindi%20720p%20PreDVD%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",The Indian Post Graduate (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/The%20Indian%20Post%20Graduate/The%20Indian%20Post%20Graduate%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%20[MovCr].mkv
+#EXTINF:-1 group-title="HINDI MOVIES",High Jack (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/High%20Jack/High%20Jack%20(2018)%20Hindi%201080p%20WEB-HD%20x264%20AAC-MovCr.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Haseena (2018)
+http://file.khulnaflix.net/Movies/Bollywood%20Movie/2018/HASEENA%20720p/Haseena%20%282018%29%20Hindi%20720p%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Garbage (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Garbage/Garbage%20(2018)%20Hindi%20720p%20HDRip%20x264%20AAC%20ESub.mkv
+#EXTINF:-1 group-title="HINDI MOVIES",Bhavesh Joshi Superhero (2018)
+http://content.discoveryftp.net/Movies/Hindi/2018/Bhavesh%20Joshi%20Superhero/Bhavesh%20Joshi%20Superhero%20(2018)%20720p%20NetFlixRip%20x264%20AC3%20%205.1%20MSubs%20-%20xRG.mkv
+
+
+
+
+#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Ashbe Bole (2021)
+http://mymoviebazar.net/Data/movies/indian%20bangla/new/Tumi%20Ashbe%20Bole%20(2021)/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Bromhodoityo (2020)
+http://content.discoveryftp.net/Movies/Bangla/2020/Bromhodoityo/Bromhodoityo%202020%20Bengali%201080P%20WEBDL%20x264%20AVC%20AAC%20[shadow]%20!!Exclusive!!.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Asur (2020)
+http://content.discoveryftp.net/Movies/Bangla/2020/Asur/Asur.2020.WEB-DL.MLSBD_1920x1080_b37bda6c3f2e06cc.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Love Aaj Kal Porshu (2020)
+http://content.discoveryftp.net/Movies/Bangla/2020/Love%20Aaj%20Kal%20Porshu/LAKP.MSLBD.CO.1080P.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Tui Amar Hero (2020)
+http://content.discoveryftp.net/Movies/Bangla/2020/Tui%20Amar%20Hero/Tui%20Amar%20Hero%20(2020)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Kathbirali (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Kathbirali/Kathbirali%20(2019)%20Bengali%20UNTOUCHED%20720p%20Hoichoi%20WEB-DL%20x264%20AACDD+2.0%20800MB.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Robibaar (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Robibaar/Robibaar%202019%20Bengali%201080P%20WEBRiP%20x265%20HEVC%20AAC%20[shadow].mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Konttho (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Konttho/KNTHO_MLSBD.CO_1920x1080+0d6e0bde4e9e85c2.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Jamai Badal (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Jamai%20Badal/JB.MLSBD.CO_1920x1080%208f98d56edddaf2d9.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Shankar Mudi (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Shankar%20Mudi/Shankar_Mudi_2019_MLSBD_1920x1080+d50eb531d67479b5.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Goyenda Junior (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Goyenda%20Junior/Goyenda%20Junior%20(2019)%201080p%20WEBDL.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Panther Hindustan Meri Jaan (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Panther%20Hindustan%20Meri%20Jaan/Panther%20Hindustan%20Meri%20Jaan%20Bengali%20(2019)%20720p%20WEBHD%20By%20SagarSingha(TeamDMR)%201st%20On%20Net.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Password B (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Password%20B/Password%20(2019)%20Bengali%20WEB-DL%20720p.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Parineeta (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Parineeta/Parineeta.2019.1080p.WEB-DL.AAC.x264.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Bibaho Obhijaan (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Bibaho%20Obhijaan/Bibaho%20Obhijaan%20(2019)%20Bengali%20720p%20WEB-DL%20x264%20[TeamSahdow].mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Ahaa Re (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Ahaa%20Re/Ahaa%20Re%20(2019)%20Bengali%20Full%20Movie%20720p%20HDRip%201.3GB%20x264%20AAC.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Password (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Password/Password%202019%20Bengali%20Movie%20DEV%20720p%20HDRip%20700MB%20MKV.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Bhokatta (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Bhokatta/Bhokatta%20(2019)%20720p%20HDRip.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Baccha Shoshur (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Baccha%20Shoshur/Baccha%20shoshur%20[2019]%20Beng.%20Movie%201080p%20Webdl%20x%20264%20AVC%20AAC%20[Cinemaghar]%20-%20xclusive%20.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Shesh Theke Shuru (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Shesh%20Theke%20Shuru/Shesh%20Theke%20Shuru%20[2019]%20Bengali%20Movie%201080p%20Untouched%20Webdl%20x%20264%20AVC%20AAC%20-%20[Cinemaghar]%20-%20Xclusive.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Ke Tumi Nandini (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Ke%20Tumi%20Nandini/Ke%20Tumi%20Nandini%20(2019)%20Bengali%20720p%20WEBRip%20x264%20AAC%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Kidnap (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Kidnap/Kidnap_WEB-DL_.CO_1920x1080+b300315131b806e6.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Prem Amar 2 (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Prem%20Amar%202/Prem%20Amar%202%20(2019)%20720p%20WEBDL%20.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Durgeshgorer Guptodhon (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Durgeshgorer%20Guptodhon/Durgeshgorer%20Guptodhon%202019%20Bengali%201080P%20WEBRiP%2010%20bit%20x265%20HEVC%20AC3%20[shadow].mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Bhoot Chaturdashi (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Bhoot%20Chaturdashi/Bhoot%20Chaturdashi%20(2019)%20Bengali%20AMZN%20WEB-DL%201080p%20H265%20HEVC%20DD+5.1-BonsaiHD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Mon Jane Na (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Mon%20Jane%20Na/HDFilmBoss.info-Mon%20Jane%20na%20(2019)%20Bengali%201080p%20WEB-DL%20x264%20AAC%201.7GB.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Onek Diner Pore (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Onek%20Diner%20Pore/Onek%20Diner%20Pore%20(2019)%20Bengali%20720p%20WEBRip%20x264%20AAC%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Thai Curry (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Thai%20Curry/Thai%20Curry%20(2019)%20Bengali%20720p%20HDRip%20x264%20AAC%20-UnknownStAr.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Jodi Ekdin (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Jodi%20Ekdin/Jodi%20Ekdin%20(2019)%201080p%20WEBHD.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",The Lovely Mrs Mookherjee (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/The%20Lovely%20Mrs%20Mookherjee/The%20Lovely%20Mrs%20Mookherjee%20(2019)%20Bengali%20720p%20HDRip%20x264%20AAC%20[TeamMS].mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Bobbyr Bondhura (2019)
+http://content.discoveryftp.net/Movies/Bangla/2019/Bobbyr%20Bondhura/Bobbyr%20Bondhura%20(2019)%201080p%20WEBDL.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Dupur Thakurpo (2017)
+http://content.discoveryftp.net/Movies/Bangla/2017/Dupur%20Thakurpo/dupor%20thakor%20po.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Dupur Thakurpo 2 (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Dupur%20Thakurpo%202/Dupur%20Thakurpo%202%202018%20S2-E1-E5%20Bengali%20Web%20Series%20x264%20MP4.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Mitter Parar Maradona (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Mitter%20Parar%20Maradona/Mitter%20Parar%20Maradona%20(2018)%20Zee5%20Premium%20%20Bangla%20Movie%20%201080p%20WEB-DL%20AVC%20AAC%20REO.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Suitcase (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Suitcase/Suitcase%202018%20Zee5%20Premium%20%20Bangla%20Movie%201080p%20WEB-DL%20AVC%20AAC%20REO.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Girlfriend (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Girlfriend/Girlfriend%20(2018)%20Bengali%20720p%20HDRip%20x264%20AAC.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Villain (2018)
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Villain%20%282018%29/Villain.2018.Hoichoi.1080p.WEB-DL.AAC.264-TimepassBD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Captain Khan (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Captain%20Khan/SkyMoviesHD.in%20-%20Captain%20Khan%20(2018)%20Bangla%20Movie%20Original%20HDRip%20[NO%20Harbal%20ADS]%20720p%20x264%20[1.2].mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Hoichoi Unlimited (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Hoichoi%20Unlimited/Hoichoi%20Unlimited%20(2018)%20720p%20HDTVRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Chittagainga Powa Noakhailla Maia (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Chittagainga%20Powa%20Noakhailla%20Maia/Chittagainga%20Powa%20Noakhailla%20Maia%20(2018)%20720p%20HDRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Bizli Origin (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Bizli%20Origin/Bizli%20(2018)%20720p%20HDRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Bagh Bandi Khela (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Bagh%20Bandi%20Khela/Bagh%20Bandi%20Khela%20(2018)%20Bengali%20720p%20NEW%20HDTVRip%20x264%20AAC%20[SM%20Team].mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Honeymoon (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Honeymoon/Honeymoon.2018.Bengali.720p.WEB-DL.H264.AAC2.0%20-%20DTOne.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Dhatteriki (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Dhatteriki/Dhat%20Teri%20Ki%20(2018)%20DVDRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Naqaab (Mask)
+http://10.16.100.250/ftps10d1/Movies/Bangla/Naqaab%20(2018)%20720p%20HDTVRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Chalbaaz (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Chalbaaz/Chalbaaz%20(2018)%20480p%20CAMPRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Sultan The Saviour (2018)
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Sultan%3A%20The%20Saviour%20%282018%29/Sultan%20The%20Saviour%20%282018%29%201080p%20WEB-DL%20H264%20AAC_LillMASTER.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Inspector Notty K (2018)
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Inspector%20Notty%20K%20%282018%29/Inspector%20NottyK%202018%201080p%20AMZN%20WEB-RIP%20H264%20DDP%202.0%20D0T-Telly.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Bhaijaan Elo Re (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Bhaijaan%20Elo%20Re/Bhaijaan%20Elo%20Re%20(2018)%20720p%20HDRip.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Fidaa (2018)
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Fidaa%20%282018%29/Fidaa.2018.Hoichoi.1080p.WEB-DL.AAC.264-TimepassBD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Tumi Sudhu Amar
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2018/Tumi%20Je%20Amar%20%282018%29/Tumi%20Je%20Amar%20%282018%29%201080p%20WEB%20HD%20Rip%20x264%20AAC%20-%20www.come2speed.com.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Total Dadagiri (2018)
+http://content.discoveryftp.net/Movies/Bangla/2018/Total%20Dadagiri/Total%20Dadagiri%20(2018)%20Bengali%20Movie%20720%20DTHRip%20x264%20AAC%20-%201.48GB.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Awara
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2012/Awara%20%282012%29/Awara%202012.HotStar.1080p.Web-HD.AVC.AAC.2.0.E-Sub.HoTsPuRs.24xHD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",100 percent love
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2012/100%20Percent%20Love%20%282012%29/100%20Percent%20Love%20%282012%29.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Phande Poriya Boga Kande Re (2011)
+http://content.discoveryftp.net/Movies/Bangla/2011/Phande%20Poriya%20Boga%20Kande%20Re/Fande%20Poriya%20Boga%20Kande%20Re.2011.1080p.WEB-DL.AVC.AAC.Torr3ntHD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Bacchan 
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2014/Bachchan%20%282014%29/Bachchan%202014%20Bengali%201080p%20WEB-DL%20AAC%20x264-NLT.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Action
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2014/Action%20%282014%29/Action-TimepassBD.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Bindaas (2014)
+http://content.discoveryftp.net/Movies/Bangla/2014/Bindaas/Bindaas%202014%201080p.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Hero Giri (2015)
+http://content.discoveryftp.net/Movies/Bangla/2015/Hero%20Giri/Herogiri%202015%20[Bengali]%20Untouched%201080p%20WEB-DL%20x264%20AAC%20-%20Hon3yHD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Ki Kore Toke Bolbo (2016)
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2016/Ki%20Kore%20Toke%20Bolbo%20%282016%29/Ki%20Kore%20Toke%20Bolbo%20%282016%29.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Yoddha (2014)
+http://content.discoveryftp.net/Movies/Bangla/2014/Yoddha/Yoddha.2014.1080p.WEB-DL.AVC.AAC.Torr3ntHD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Jamai 420 (2015)
+http://content.discoveryftp.net/Movies/Bangla/2015/Jamai%20420/Jamai.420.2015.Bengali.1080p.WebHD.AVC.AAC-M2Tv.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Ami Je Ke Tomar (2017)
+http://content.discoveryftp.net/Movies/Bangla/2017/Ami%20Je%20Ke%20Tomar/Ami%20Je%20Ke%20Tomar%20(2017)%20720p%20Untouched%20WEB%20HD%20-%20AVC%20-%20AAC%20-%20Team%20IcTv.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Deewana
+http://ftp.timepassbd.live/skyview-ftp/ftp2/BANGLA_MOVIES/2013/Deewana%20%282013%29/Deewana.2013.1080p.Hoichoi%20WEB-DL.H264.AAC-TimepassBD.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Boss (2013)
+http://content.discoveryftp.net/Movies/Bangla/2013/Boss/Boss%202014.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Boss 2
+http://content.discoveryftp.net/Movies/Bangla/2017/Boss%202/Boss%202%20(2017)%20Bengali%20720p%20HDRip%20x264%20AAC%20ESubs%20900MB.mkv
+#EXTINF:-1 group-title="BANGLA MOVIES",Boss 2 icc
+http://10.16.100.248/ftps6d3/Movies/Bangla/Boss%202%20(2017)%20Kolkata%201080p%20WEBHD.mp4
+#EXTINF:-1 group-title="BANGLA MOVIES",Gangster (2016)
+http://content.discoveryftp.net/Movies/Bangla/2016/Gangster/Gangster%20(2016)%20-%20720p%20-%20HDRip%20-%20x264%20-%20AC3%20[DDR].mkv
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
